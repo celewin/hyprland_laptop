@@ -2,7 +2,7 @@
 
 Install with yadm:
 ```bash
-yadm clone https://github.com/celewin/hyprland_config.git
+yadm clone https://github.com/celewin/hyprland_laptop.git
 yadm checkout --force
 ```
 
